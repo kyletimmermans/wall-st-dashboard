@@ -2,8 +2,8 @@
 
 </br>
 
-<div>Scrape money.cnn.com/data/markets and display that info live</div>
-<div>Currency converter, scrape from google tool<div>
+<div>Scrape money.cnn.com/data/markets and display that info live (Selenium)</div>
+<div>Currency converter, scrape from google tool (query?)<div>
 <div>World Time</div>
 <div>Put everything into one .jar executable</div>
 
