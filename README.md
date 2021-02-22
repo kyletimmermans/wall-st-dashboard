@@ -1,4 +1,4 @@
-# <div align="center">Wall St Dashboard</div>
+# <div align="center">Wall-St Dashboard</div>
 
 </br>
 
