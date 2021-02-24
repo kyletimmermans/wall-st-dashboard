@@ -2,7 +2,7 @@
 
 </br>
 
-<div>Scrape money.cnn.com/data/markets and display that info live (Selenium)</div>
+<div>Scrape https://money.cnn.com/data/markets and display that info live (Selenium)</div>
 <div>Currency Converter API - https://fixer.io/<div>
 <div>&ensp;&ensp;-Hide API key?</div>
 <div>World Times - New York, London, Tokyo, Beijing, Seoul, Moscow, Paris https://www.timeanddate.com/worldclock/</div>
