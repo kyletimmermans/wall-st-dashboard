@@ -1,8 +1,7 @@
 ![Version 1.0](https://img.shields.io/badge/version-v1.0-orange.svg)
 ![JavaRE 15.0.2](https://img.shields.io/badge/JRE-15.0.2-9f5f14.svg)
 ![JavaFx 16](https://img.shields.io/badge/JavaFx-16-a13cc9.svg)
-![Platform macOS 10.10 or higher](https://img.shields.io/badge/platform-macOS%2010.10%20or%20higher-9cf.svg)
-![Last Updated](https://img.shields.io/github/last-commit/kyletimmermans/netutilmb?color=success)
+![Last Updated](https://img.shields.io/github/last-commit/kyletimmermans/wall-st-dashboard?color=success)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
 # <div align="center">Wall-St Dashboard</div>
